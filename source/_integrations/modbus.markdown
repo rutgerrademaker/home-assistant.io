@@ -541,7 +541,7 @@ climates:
   type: map
   keys:
     temperature_unit:
-      description: "Temperature unit, C or F."
+      description: "Temperature unit: C or F."
       required: false
       default: C
       type: list
